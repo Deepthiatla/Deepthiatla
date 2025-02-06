@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python Full Stack Developer </h3>
+<img src="https://tse2.mm.bing.net/th?id=OIP.qdAW1TjCN57h1lbuuzvchgHaFj&pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepthiatla&label=Profile%20views&color=0e75b6&style=flat" alt="deepthiatla" /> </p>
 
